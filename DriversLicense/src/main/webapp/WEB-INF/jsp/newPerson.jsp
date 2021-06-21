@@ -23,7 +23,7 @@
 	         <form:errors path="lastName" />
 	         <form:input path="lastName" />
 	     </p>
-	     <input type="submit" value="Submit" />
+	     <input type="submit" value="Create" />
 	 </form:form>
 </body>
 </html>

@@ -33,7 +33,7 @@
 	        <form:errors path="expirationDate" />
 	        <form:input type="date" path="expirationDate" />
 	    </p>
-	    <input type="submit" value="Submit" />
+	    <input type="submit" value="Create" />
 	</form:form>
 </body>
 </html>
